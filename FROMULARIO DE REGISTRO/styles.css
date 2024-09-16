@@ -1,0 +1,26 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.formulario{
+   background-color: rgb(128, 62, 62);
+   max-width:400px ;
+   padding: 30px;
+   margin: auto;
+   margin-top: 100px; 
+   border-radius: 4px;
+   font-family: 'calibri'; /*Para centrar el formulario*/
+   color: azure;
+}
+.ff{
+   width: 100%; 
+   padding: 10px;
+   border-radius: 4px;
+   margin-bottom: 10px;
+   border: 1px solid cornflowerblue;
+   font-family: 'calibri';
+}
